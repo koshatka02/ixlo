@@ -1,0 +1,12 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "Zuzanna Koszalka" << endl;
+    cout << "ix liceum ogolnoksztalcace" << endl;
+    cout << "ulica orlowska 57" << endl;
+    cout << "81-542 Gdynia" << endl;
+    return 0;
+}
